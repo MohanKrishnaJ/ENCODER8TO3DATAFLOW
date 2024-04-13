@@ -58,7 +58,7 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 
 Developed by: MIDHUN S RegisterNumber:212223240087
 ```
-![program exp 5](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/4b62d4fa-4358-4883-b1ae-4194b8891715)
+![exp 5 program update](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/b2a06568-bdd4-42d0-9a18-524225b3d688)
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
@@ -66,7 +66,7 @@ Developed by: MIDHUN S RegisterNumber:212223240087
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![waveform exp 5](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/ad51a9d6-8b8a-437e-a406-c7a34930eb09)
+![exp 5 tt](https://github.com/23003250/ENCODER8TO3DATAFLOW/assets/139331462/d853a781-f957-440c-84f7-bf062b963455)
 
 
 **RESULTS**
